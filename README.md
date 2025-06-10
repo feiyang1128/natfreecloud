@@ -15,10 +15,10 @@
 ---
 
 ## 手动签到  
-1、首先添加一个自定义域名
-   浏览器访问 ： https://自定义域名  即可。
-2、支持 TG 机器人签到 
-   浏览器访问：[TG](https://api.telegram.org/bot<TG机器人token>/setWebhook?url=https://自定义域/telegram)  (仅一次即可)
+1、首先添加一个自定义域名<br>
+   浏览器访问 ： https://自定义域名  即可。<br>
+2、支持 TG 机器人签到 <br>
+   浏览器访问：[TG](https://api.telegram.org/bot<TG机器人token>/setWebhook?url=https://自定义域/telegram)  (仅一次即可)<br>
    发送  /checkin ID(ID可选)  签到
 ## 自动签到
    添加一个触发事件即可。
