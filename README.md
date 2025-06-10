@@ -1,5 +1,5 @@
 
-# natfreecloud 自动签到
+# natfreecloud 自动签到 （cloudflare workers）
 
 ## 变量说明
 
