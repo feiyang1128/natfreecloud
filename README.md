@@ -9,7 +9,8 @@
 | TG_BOT_TOKEN（可选） | 12345   | Telegram 机器人 token          |
 | TG_CHAT_ID（可选）   | 12345   | Telegram 你的 chat ID          |
 
-![image](https://github.com/user-attachments/assets/cd058396-9461-4f00-a9ed-d21ae01aeb46)
+![image](https://github.com/user-attachments/assets/96582fc5-a738-4552-992f-e8b364aa9707)
+
 > 红框后面的数字就是 ID
 
 ---
